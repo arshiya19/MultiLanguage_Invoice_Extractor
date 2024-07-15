@@ -9,11 +9,3 @@ using python version > 3.9 because its the requirement to use for Gemini AI
 
     conda create -p venv python==3.10 -y 
 
-
-Agenda:
-
-1. Multilanguage Invoice Extractor
-2. Create Environment
-3. Requirements.txt
-4. step by step building the app
-5. 
